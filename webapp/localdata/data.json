@@ -1,0 +1,24 @@
+
+{
+	"DATA":[
+		{
+			"EMP ID" : "10539",
+			"EMP NAME" : "SHWETA SINGH",
+		    "PROFILE" : "B",
+		    "DATE" : "01072019"
+		},
+        {
+			"EMP ID" : "10538",
+			"EMP NAME" : "RAJAT MITTAL",
+		    "PROFILE" : "B",
+		     "DATE" : "01072019"
+		},
+	    {
+			"EMP ID" : "10500",
+			"EMP NAME" : "MANIKA SHARMA",
+		    "PROFILE" : "F",
+		     "DATE" : "01072019"
+		}
+]
+} 
+ 
